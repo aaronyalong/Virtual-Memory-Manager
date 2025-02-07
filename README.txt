@@ -1,4 +1,4 @@
-Aaron Yalong (ayalong@uci.edu) 16865957
+Aaron Yalong
 1. Description how to run file:
 In my source I have only one .java files and called VirtualMemory.java which is the only executable file necessary for my program. It works with both demand paging and without demand paging.
 The IDE I used was IntelliJ. I imported my project using IntelliJ with JDK 22 version. Im not sure if you can use another IDE to run it. But to run it, go to the VirtualMemory.Java file (which contains main class) and build->compile from there.
